@@ -4,8 +4,8 @@ Mình là một học sinh Việt Nam lớp 12 trường Trung Học Phổ Thôn
 
 Mình rất thích lập trình và đặc biệt yêu thích những thứ **low-level** như **C**, **Assembly** hay **xây dựng ngôn ngữ lập trình từ con số 0**, ...
 
-> Không chỉ học cách *dùng* ngôn ngữ,  
-> mình muốn hiểu **máy tính thật sự đang làm gì**.
+> mình không chỉ học cách *dùng* ngôn ngữ,  
+> Mình muốn hiểu **máy tính thật sự đang làm gì**.
 
 ---
 
