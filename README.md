@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Hai 👨‍💻
+# 👋 Xin chào, mình là Hải 👨‍💻
 
 Mình là một lập trình viên yêu thích **low-level**, **C**, và **xây dựng ngôn ngữ lập trình từ con số 0**.
 
