@@ -1,8 +1,8 @@
 # 👋 Xin chào, mình là Sơn Hải 👨‍💻
 
-- Mình là một học sinh Việt Nam lớp 12 trường Trung Học Phổ Thông Trần Nguyên Hãn
+Mình là một học sinh Việt Nam lớp 12 trường Trung Học Phổ Thông Trần Nguyên Hãn
 
-- Mình rất thích lập trình và đặc biệt yêu thích những thứ **low-level** như **C**, **Assembly** hay **xây dựng ngôn ngữ lập trình từ con số 0**, ...
+Mình rất thích lập trình và đặc biệt yêu thích những thứ **low-level** như **C**, **Assembly** hay **xây dựng ngôn ngữ lập trình từ con số 0**, ...
 
 > Không chỉ học cách *dùng* ngôn ngữ,  
 > mình muốn hiểu **máy tính thật sự đang làm gì**.
