@@ -30,5 +30,6 @@ Mình rất thích lập trình và đặc biệt yêu thích những thứ **lo
 
 ## Link mạng xã hội của mình 😊
 
-Facebook: https://www.facebook.com/profile.php?id=61576825118209
-Youtube: https://www.youtube.com/@SolarityLabOfficial
+- Facebook: https://www.facebook.com/profile.php?id=61576825118209
+
+- Youtube: https://www.youtube.com/@SolarityLabOfficial
