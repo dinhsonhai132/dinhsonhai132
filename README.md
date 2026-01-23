@@ -1,6 +1,6 @@
 # 👋 Xin chào, mình là Sơn Hải 👨‍💻
 
-Mình là một học sinh cấp 3 lớp 12 ở Việt Nam 🇻🇳 
+Mình là một học sinh cấp 3 lớp 12 tại Việt Nam 🇻🇳 
 
 Mình rất thích lập trình và đặc biệt yêu thích những thứ **low-level** như **C**, **Assembly** hay **xây dựng ngôn ngữ lập trình từ con số 0**, ...
 
