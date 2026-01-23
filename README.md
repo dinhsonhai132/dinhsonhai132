@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sơn Hải <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
+# 👋 Hi, I'm Sơn Hải 👨‍💻
 
 I'm a final-year high school student from Vietnam 🇻🇳
 
