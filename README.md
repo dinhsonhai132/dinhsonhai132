@@ -41,5 +41,3 @@ I’m passionate about programming, especially **low-level** topics like **C**, 
 * Join us at: [https://github.com/solarity-lab](https://github.com/solarity-lab)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=dinhsonhai132&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dinhsonhai132&theme=blue-green)
