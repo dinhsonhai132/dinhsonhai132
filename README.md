@@ -39,3 +39,5 @@ I’m passionate about programming, especially **low-level** topics like **C**, 
 * Facebook: [https://www.facebook.com/profile.php?id=61576825118209](https://www.facebook.com/profile.php?id=61576825118209)
 * YouTube: [https://www.youtube.com/@SolarityLabOfficial](https://www.youtube.com/@SolarityLabOfficial)
 * Join us at: [https://github.com/solarity-lab](https://github.com/solarity-lab)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=dinhsonhai132&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
