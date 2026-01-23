@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sơn Hải 👨‍💻
 
-I'm a Grade 12 high school student from Vietnam 🇻🇳
+I'm a final-year high school student from Vietnam 🇻🇳
 
 I’m passionate about programming, especially **low-level** topics like **C**, **Assembly**, and **building programming languages from scratch**.
 
