@@ -40,8 +40,8 @@ I’m passionate about programming, especially **low-level** topics like **C**, 
 * YouTube: [https://www.youtube.com/@SolarityLabOfficial](https://www.youtube.com/@SolarityLabOfficial)
 * Join us at: [https://github.com/solarity-lab](https://github.com/solarity-lab)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=dinhsonhai132&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinhsonhai132&theme=github-compact)
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
