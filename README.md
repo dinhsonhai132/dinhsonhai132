@@ -1,37 +1,41 @@
-# 👋 Xin chào, mình là Sơn Hải 👨‍💻
+# 👋 Hi, I'm Sơn Hải 👨‍💻
 
-Mình là một học sinh cấp 3 lớp 12 tại Việt Nam 🇻🇳 
+I'm a Grade 12 high school student from Vietnam 🇻🇳
 
-Mình rất thích lập trình và đặc biệt yêu thích những thứ **low-level** như **C**, **Assembly** hay **xây dựng ngôn ngữ lập trình từ con số 0**, ...
+I’m passionate about programming, especially **low-level** topics like **C**, **Assembly**, and **building programming languages from scratch**.
 
-> mình không chỉ học cách *dùng* ngôn ngữ,  
-> Mình muốn hiểu **máy tính thật sự đang làm gì**.
+> I don’t just want to learn how to *use* a language,
+> I want to understand **what the computer is actually doing underneath**.
 
 ---
 
-## 🧠 Mình đang làm gì?
+## 🧠 What am I working on?
 
-- 🔧 Xây dựng **Suny** – một ngôn ngữ lập trình viết bằng **pure C**
-- 🧩 Tìm hiểu:
-  - Interpreter / VM
-  - AST, bytecode
-  - Memory management, GC
-  - Runtime internals
-- ✍️ Viết code để **hiểu**, không phải chỉ để chạy
+* 🔧 Building **Suny** — a programming language written in **pure C**
+* 🧩 Studying:
 
-## 🚀 Tầm nhìn
+  * Interpreters / Virtual Machines
+  * AST & bytecode
+  * Memory management, Garbage Collection
+  * Runtime internals
+* ✍️ Writing code to **understand**, not just to make it run
 
-- Xây dựng **Solarity Labs** — một công ty công nghệ độc lập
-- Phát triển phần mềm tập trung vào:
-  - hệ thống nền tảng
-  - ngôn ngữ lập trình & runtime
-  - công cụ giúp lập trình viên hiểu và kiểm soát máy tốt hơn
-- Tạo ra sản phẩm **không chạy theo trend**, mà bền vững về kỹ thuật
+---
 
-## Link mạng xã hội của mình 😊
+## 🚀 Vision
 
-- Facebook: https://www.facebook.com/profile.php?id=61576825118209
+* Building **Solarity Labs** — an independent technology company
+* Developing software focused on:
 
-- Youtube: https://www.youtube.com/@SolarityLabOfficial
+  * system-level foundations
+  * programming languages & runtimes
+  * tools that help developers understand and control the machine
+* Creating products that **don’t chase trends**, but are technically solid and long-lasting
 
-- Bạn có thể tham gia: https://github.com/solarity-lab
+---
+
+## 🌐 My social links 😊
+
+* Facebook: [https://www.facebook.com/profile.php?id=61576825118209](https://www.facebook.com/profile.php?id=61576825118209)
+* YouTube: [https://www.youtube.com/@SolarityLabOfficial](https://www.youtube.com/@SolarityLabOfficial)
+* Join us at: [https://github.com/solarity-lab](https://github.com/solarity-lab)
