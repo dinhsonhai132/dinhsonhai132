@@ -41,8 +41,6 @@ I’m passionate about programming, especially **low-level** topics like **C**, 
 * My Website [https://dinhsonhai132.github.io/main.html](https://dinhsonhai132.github.io/main.html)
 * Join us at: [https://github.com/solarity-lab](https://github.com/solarity-lab)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinhsonhai132&theme=github-compact)
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
