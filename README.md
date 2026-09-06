@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Sơn Hải 👨‍💻
 
+<p align="center">
+  <img src="assets/LOGO.png" alt="logo" width="200"/>
+</p>
+
 I'm an first year student of FPT University in Vietnam 🇻🇳.
 
 I’m passionate about programming, especially **low-level** topics like **C**, **Assembly**, and **building programming languages from scratch**.
