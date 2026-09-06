@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sơn Hải 👨‍💻
 
-I'm an 18-year-old final-year high school student from Vietnam 🇻🇳.
+I'm an first year student of FPT University in Vietnam 🇻🇳.
 
 I’m passionate about programming, especially **low-level** topics like **C**, **Assembly**, and **building programming languages from scratch**.
 
